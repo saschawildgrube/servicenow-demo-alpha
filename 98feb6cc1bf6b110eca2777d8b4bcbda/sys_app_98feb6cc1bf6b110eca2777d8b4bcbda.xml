@@ -21,7 +21,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_demo_alpha</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>This is Demo Alpha</short_description>
         <source>x_snc_demo_alpha</source>
         <store_correlation_id/>
         <store_url/>
@@ -31,9 +31,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-24 15:03:26</sys_created_on>
         <sys_id>98feb6cc1bf6b110eca2777d8b4bcbda</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-27 10:14:21</sys_updated_on>
+        <sys_updated_on>2023-11-27 10:15:39</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
