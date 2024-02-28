@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_demo_alpha_demo_alpha" label="Demo Alpha" language="en" table="cmdb_ci">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_demo_alpha_demo_alpha</element>
+            <help/>
+            <hint/>
+            <label>Demo Alpha</label>
+            <language>en</language>
+            <name>cmdb_ci</name>
+            <plural>Demo Alphas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-28 12:14:30</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Demo Alpha</sys_name>
+            <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_x_snc_demo_alpha_demo_alpha_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-28 12:14:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
