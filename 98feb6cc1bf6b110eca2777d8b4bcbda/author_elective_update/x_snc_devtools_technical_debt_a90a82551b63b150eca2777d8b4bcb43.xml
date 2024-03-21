@@ -19,7 +19,7 @@
     </x_snc_devtools_technical_debt>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</application>
+        <application display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</application>
         <file_path/>
         <instance_id>6cd7579f1b66b5549377eb9b2d4bcb46</instance_id>
         <instance_name>cicddemodev</instance_name>
@@ -52,10 +52,10 @@
         <sys_metadata>a90a82551b63b150eca2777d8b4bcb43</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>"test" script include is still work in prgress</sys_name>
-        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_parent/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_scope_delete display_value="">09757609f2bb47d4822933ed4c86e0a9</sys_scope_delete>
         <sys_update_name>x_snc_devtools_technical_debt_a90a82551b63b150eca2777d8b4bcb43</sys_update_name>
         <sys_update_version display_value="x_snc_devtools_technical_debt_a90a82551b63b150eca2777d8b4bcb43">8d2ac2551b63b150eca2777d8b4bcbe4</sys_update_version>
