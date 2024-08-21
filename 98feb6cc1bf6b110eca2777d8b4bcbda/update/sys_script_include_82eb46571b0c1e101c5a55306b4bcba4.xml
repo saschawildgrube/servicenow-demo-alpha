@@ -5,7 +5,7 @@
         <api_name>x_snc_demo_alpha.DoesSomething</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description/>
+        <description>The DoesSomething() function returns the input value to the power of 2.</description>
         <name>DoesSomething</name>
         <script><![CDATA[function DoesSomething(nParam)
 {
@@ -15,13 +15,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-08-21 13:11:07</sys_created_on>
         <sys_id>82eb46571b0c1e101c5a55306b4bcba4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>DoesSomething</sys_name>
         <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name>sys_script_include_82eb46571b0c1e101c5a55306b4bcba4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-21 13:11:07</sys_updated_on>
+        <sys_updated_on>2024-08-21 13:34:03</sys_updated_on>
     </sys_script_include>
 </record_update>
