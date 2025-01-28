@@ -15,9 +15,9 @@
         <sys_id>782256df1b0c1e101c5a55306b4bcbfc</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Run Server Side Script</sys_name>
-        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name>sys_atf_step_782256df1b0c1e101c5a55306b4bcbfc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-08-21 13:39:36</sys_updated_on>
