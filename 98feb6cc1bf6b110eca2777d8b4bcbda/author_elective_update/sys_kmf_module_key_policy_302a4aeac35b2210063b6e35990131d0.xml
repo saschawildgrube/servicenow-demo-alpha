@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="DELETE">
+        <crypto_module display_value="glide_usage_analytics_token_signing">bc26a5427f130210cf428c711d866559</crypto_module>
+        <key_type display_value="Private Signature Generation Key">eacabf24c7003300af4d43c6f0976341</key_type>
+        <last_enforced>2025-08-14 14:42:23</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-14 14:42:23</sys_created_on>
+        <sys_id>302a4aeac35b2210063b6e35990131d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_302a4aeac35b2210063b6e35990131d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-14 14:42:23</sys_updated_on>
+    </sys_kmf_module_key_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</application>
+        <file_path/>
+        <instance_id>6cd7579f1b66b5549377eb9b2d4bcb46</instance_id>
+        <instance_name>cicddemodev</instance_name>
+        <name>sys_kmf_module_key_policy_302a4aeac35b2210063b6e35990131d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy"><sys_kmf_module_key_policy action="INSERT_OR_UPDATE"><crypto_module display_value="glide_usage_analytics_token_signing">bc26a5427f130210cf428c711d866559</crypto_module><key_type display_value="Private Signature Generation Key">eacabf24c7003300af4d43c6f0976341</key_type><last_enforced>2025-08-14 14:42:23</last_enforced><result>reject</result><sys_class_name>sys_kmf_module_key_policy</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-14 14:42:23</sys_created_on><sys_id>302a4aeac35b2210063b6e35990131d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package><sys_policy/><sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope><sys_update_name>sys_kmf_module_key_policy_302a4aeac35b2210063b6e35990131d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-14 14:42:23</sys_updated_on></sys_kmf_module_key_policy></record_update>]]></payload>
+        <payload_hash>1417138730</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f21b3cebdbf80e103f9ad03cd3961951</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-14 14:42:23</sys_created_on>
+        <sys_id>782a4aeac35b2210063b6e35990131d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198a90834460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-14 14:42:23</sys_updated_on>
+        <type>Crypto Module Key Policy</type>
+        <update_guid>bc2a4aea4f5b22104b6135cb71a1bbd1</update_guid>
+        <update_guid_history>bc2a4aea4f5b22104b6135cb71a1bbd1:1417138730</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-12 14:13:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_kmf_module_key_policy">sys_kmf_module_key_policy</sys_db_object>
+        <sys_id>0ad3ee361a84441880b29541434e3190</sys_id>
+        <sys_metadata>302a4aeac35b2210063b6e35990131d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope_delete display_value="">09757609f2bb47d4822933ed4c86e0a9</sys_scope_delete>
+        <sys_update_name>sys_kmf_module_key_policy_302a4aeac35b2210063b6e35990131d0</sys_update_name>
+        <sys_update_version display_value="sys_kmf_module_key_policy_302a4aeac35b2210063b6e35990131d0">782a4aeac35b2210063b6e35990131d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-12 14:13:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

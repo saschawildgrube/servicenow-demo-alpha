@@ -5,17 +5,17 @@
         <status>allowed</status>
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-28 09:30:08</sys_created_on>
-        <sys_id>50e71d76db5fda103f9ad03cd39619d6</sys_id>
+        <sys_created_on>2025-11-12 14:13:44</sys_created_on>
+        <sys_id>66a2ed2bc30d7210063b6e35990131be</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>InstallApp</sys_name>
+        <sys_name>IsFunction</sys_name>
         <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
-        <sys_update_name>sys_scope_privilege_50e71d76db5fda103f9ad03cd39619d6</sys_update_name>
+        <sys_update_name>sys_scope_privilege_66a2ed2bc30d7210063b6e35990131be</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-28 09:30:08</sys_updated_on>
-        <target_name>InstallApp</target_name>
+        <sys_updated_on>2025-11-12 14:13:44</sys_updated_on>
+        <target_name>IsFunction</target_name>
         <target_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</target_scope>
         <target_type>sys_script_include</target_type>
     </sys_scope_privilege>
