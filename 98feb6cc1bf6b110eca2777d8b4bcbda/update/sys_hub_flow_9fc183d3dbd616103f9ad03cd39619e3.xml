@@ -39,9 +39,9 @@
         <sys_mod_count>3</sys_mod_count>
         <sys_name>TEST</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name>sys_hub_flow_9fc183d3dbd616103f9ad03cd39619e3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:24</sys_updated_on>
@@ -74,7 +74,7 @@
         <sys_id>31338f17dbd616103f9ad03cd396193b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_overrides/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:16</sys_updated_on>
         <table>incident</table>
@@ -176,7 +176,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:13</sys_updated_on>
@@ -260,7 +260,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:12</sys_updated_on>
@@ -344,7 +344,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:13</sys_updated_on>
@@ -402,7 +402,7 @@
         <sys_created_on>2024-12-11 13:33:14</sys_created_on>
         <sys_id>11334f17dbd616103f9ad03cd39619fd</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:14</sys_updated_on>
         <ui_id>7d8516af-a114-43c8-a518-e0d957e12184</ui_id>
@@ -428,9 +428,9 @@
         <sys_id>45334f17dbd616103f9ad03cd39619a7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:13</sys_updated_on>
@@ -451,9 +451,9 @@
         <sys_id>49334f17dbd616103f9ad03cd39619aa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:13</sys_updated_on>
@@ -474,9 +474,9 @@
         <sys_id>85334f17dbd616103f9ad03cd39619a3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:13</sys_updated_on>
@@ -521,7 +521,7 @@
         <sys_overrides/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:15</sys_updated_on>
@@ -612,7 +612,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:15</sys_updated_on>
@@ -696,7 +696,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:15</sys_updated_on>
@@ -780,7 +780,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:15</sys_updated_on>
@@ -838,7 +838,7 @@
         <sys_created_on>2024-12-11 13:33:16</sys_created_on>
         <sys_id>f9338f17dbd616103f9ad03cd3961933</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:16</sys_updated_on>
         <ui_id>7d8516af-a114-43c8-a518-e0d957e12184</ui_id>
@@ -864,9 +864,9 @@
         <sys_id>25338f17dbd616103f9ad03cd396191e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:15</sys_updated_on>
@@ -887,9 +887,9 @@
         <sys_id>39338f17dbd616103f9ad03cd396192c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:16</sys_updated_on>
@@ -910,9 +910,9 @@
         <sys_id>e5338f17dbd616103f9ad03cd3961925</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_package display_value="Demo Alpha" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_scope display_value="Demo Alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-11 13:33:15</sys_updated_on>
