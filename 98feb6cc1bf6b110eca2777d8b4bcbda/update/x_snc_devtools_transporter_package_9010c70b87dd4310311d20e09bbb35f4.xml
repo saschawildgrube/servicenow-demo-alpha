@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_devtools_transporter_package">
+    <x_snc_devtools_transporter_package action="INSERT_OR_UPDATE">
+        <auto_commit>false</auto_commit>
+        <auto_unpack>false</auto_unpack>
+        <description/>
+        <id/>
+        <id_suffix/>
+        <name>Update Sets from global scope</name>
+        <order/>
+        <sys_class_name>x_snc_devtools_transporter_package</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 14:11:53</sys_created_on>
+        <sys_id>9010c70b87dd4310311d20e09bbb35f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Sets from global scope</sys_name>
+        <sys_package display_value="Demo Alpha WORK IN PROGRESS" source="x_snc_demo_alpha">98feb6cc1bf6b110eca2777d8b4bcbda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Alpha WORK IN PROGRESS">98feb6cc1bf6b110eca2777d8b4bcbda</sys_scope>
+        <sys_update_name>x_snc_devtools_transporter_package_9010c70b87dd4310311d20e09bbb35f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 14:11:53</sys_updated_on>
+    </x_snc_devtools_transporter_package>
+</record_update>
